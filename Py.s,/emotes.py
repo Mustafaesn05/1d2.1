@@ -1,0 +1,3 @@
+emote_mapping = {
+  
+}

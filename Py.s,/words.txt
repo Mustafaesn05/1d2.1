@@ -1,0 +1,13 @@
+güneş,şimşek,gök,gürültü,yıldırım,atmosfer,ozon,bulut,göktaşı,karadelik,uzay,galaksi,halka,meteor,parlaklık,ışık,şimşek,şafak,gündoğumu,gece,gündüz,mehtap,gökkuşağı,yıldız
+savana,bozkır,çöl,orman,çınar,zeytin,sedir,meşe,çim,bahçe,çiçek,orman,gölge,ağaç,çam,sazlık,otlak,yaprak,kavak,çayır,dal,çamur,ormanlık,fidan
+tsunami,kasırga,lav,kayaç,mağara,krater,fay,çığ,delta,volkan,deprem,taşkın,kıyı,rüzgar,dalgalar,sel,hortum,heyelan,yangın,depreşme,çökme,yer kayması,tufan,çökelti
+okyanus,delta,baraj,şelale,kaynak,göl,boğaz,mağara,gelgit,su,yatak,nehir,akarsu,deniz,gölcük,kayalık,derenin,yatak,su yolu,çay,suyolu,akış,derinlik,kıyı çizgisi
+Ziggurat,Uruk,tapınak,şehir,kitabe,kent,krallık,anıt,yapı,taş bina,mezopotamya,çömlek,boyun,eşik
+sfenks,güneş,mezar,nehir,lahit,taş,heykel,anıt,kaya,mısır,piramit,obelisk,sfenks,lahit,silindir,kitabe
+mit,sur,şehir,Ege,taş,kapı,yol,tapınak,duvar,liman,mağara,kule,burç,sokak,pazar,antik
+gladyatör,Konsül,Senato,basilika,ordu,asker,mızrak,kalkan,arena,kral,kale,sancak,merdiven,meclis,kapı,alan
+Ortaçağ,serf,baron,şövalye,süvari,hisar,kale,savaş,şatolar,kral,kraliçe,duvarcı,ustabaşı,köylü,asalet
+sanat,reform,deizm,sanat,resim,heykel,şiir,müzik,roman,oyun,tiyatro,kitap,çizim,yazar,kağıt,kalem,ritim
+çini,minyatür,seramik,tuval,fırça,boya,kağıt,ebru,tezyinat,süsleme,çömlek,desen,işleme,mozaik,hat,süs,lak,çömlekçi
+romantizm,realizm,özgürlük,ahlak,halk,toplum,duygu,hikaye,fikir,hayal,gelenek,birey,düşünce,ideal
+flaşbek,monolog,ironi,anlatı,kahraman,öykü,masal,şiir,tema,uyum,konu,mekan,zaman,bağlam,düş,karakter,söz,şiir,betimleme,muhakkak,hukuk,savcı,savunma,narsist,faşist,faşizm,trans,poligon,boynuz,bakan,su aygırı,domates çorbası,Sıla,mıstık,para,huysuzlanmak,zencefil,zarar,tasavvuf,egzotik,kırbaç,eşek,dana,inek,sütlaç,amonyak,galatasaray,fenerbahçe,beşiktaş,ekmekspor,bursa,ankara,izmir,konya,amasya,antalya
